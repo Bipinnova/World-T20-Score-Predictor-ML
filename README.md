@@ -82,7 +82,7 @@ World-T20-Score-Predictor/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/World-T20-Score-Predictor.git
+git clone https://github.com/Bipinnova/World-T20-Score-Predictor-ML.git
 
 Navigate to the project:
 
@@ -140,8 +140,8 @@ Evaluation Metrics:
 
 Bipin Yadav
 
-Python Backend Developer | FastAPI Developer | SQL | AI & Machine Learning Enthusiast
+AI Engineer | Python Backend Developer | FastAPI | AI Integration | SQL | Docker | Building Production-Ready AI Applications
 
-LinkedIn: Your LinkedIn URL
+LinkedIn: https://www.linkedin.com/in/bipin-yadav-a52936249/
 
-GitHub: Your GitHub URL
+GitHub: https://github.com/bipinnova
